@@ -16,5 +16,4 @@ Requirement
 
 Paper
 -----
-
-https://link.springer.com/article/10.1007/s43684-024-00082-w
+Azizi Zade, F., Ebrahimkhanlou, A. Point clouds to as-built two-node wireframe digital twin: a novel method to support autonomous robotic inspection. Auton. Intell. Syst. 4, 25 (2024). https://doi.org/10.1007/s43684-024-00082-w
