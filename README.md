@@ -5,10 +5,11 @@ This repository will be updated.
 
 Requirement
 ------------
-* OpenSeesPy
-* Open3D
-* scipy
-* opsvis
-* Sklearn
-* contextlib
-* matplotlib
+* Python 3.10:
+  * OpenSeesPy
+  * Open3D
+  * scipy
+  * opsvis
+  * Sklearn
+  * contextlib
+  * matplotlib
