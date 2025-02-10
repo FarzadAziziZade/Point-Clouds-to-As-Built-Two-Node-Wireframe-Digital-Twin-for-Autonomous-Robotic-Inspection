@@ -5,7 +5,7 @@ This repository will be updated.
 
 Requirement
 ------------
-* Python 3.10:
+* Python 3.10.7:
   * OpenSeesPy
   * Open3D
   * scipy
