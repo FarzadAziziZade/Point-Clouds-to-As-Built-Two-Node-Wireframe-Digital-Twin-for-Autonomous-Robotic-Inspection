@@ -1,7 +1,11 @@
 # Point-Clouds-to-As-Built-Two-Node-Wireframe-Digital-Twin-for-Autonomous-Robotic-Inspection
 This repository contains a demo of the paper titled "Point Clouds to As-Built Two-Node Wireframe Digital Twin: A Novel Method to Support Autonomous Robotic Inspection".
 
-This repository will be updated.
+This repository is constantly updated.
+
+* 2/10/2025
+  * A demo is added.
+  * A demo dataset is added 
 
 Requirement
 ------------
