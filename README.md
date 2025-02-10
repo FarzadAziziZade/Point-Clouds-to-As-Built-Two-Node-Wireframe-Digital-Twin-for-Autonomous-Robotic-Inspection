@@ -19,3 +19,10 @@ Requirement
   * Sklearn
   * contextlib
   * matplotlib
+
+Screenshots
+-----------
+![image](https://github.com/user-attachments/assets/cf4454ca-ca6f-4f12-8509-8017c7ae00dc)
+![image](https://github.com/user-attachments/assets/6a26a3c9-ca5f-460c-9db8-fcaf8a1fb999)
+![image](https://github.com/user-attachments/assets/fa2cb7ac-2f82-4e95-821a-91c5e0f3ebd9)
+![image](https://github.com/user-attachments/assets/82892b0c-45cc-41bf-a02e-b56eb3e2c619)
