@@ -2,6 +2,9 @@
 - This repository provides an open-source framework for the autonomous inspection of wooden structures. 
 - The goal is to assist in the efficient and non-invasive identification of potential issues.
 
+![image](https://github.com/user-attachments/assets/9e868857-c76d-497f-8d76-79e09ac1cd10)
+
+
 This repository is constantly updated.
 
 * 2/10/2025
