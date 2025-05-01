@@ -23,7 +23,7 @@ Requirement
 
 Flow Chart
 -----------
-- Note that the red box can be adopted from [this](https://doi.org/10.1016/j.autcon.2021.103855) or be done manually.
+- Note that the red box can be adopted from [this](https://doi.org/10.1016/j.autcon.2021.103855), but it is done manually for simplicity.
   
 ![43684_2024_82_Fig1_HTML](https://github.com/user-attachments/assets/cf06877a-67d1-49eb-a596-0a50a288d927)
 
